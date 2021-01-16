@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background: #e0e7ff; */
+  /* color: white; */
+}
+
+body {
+  background-color: #e5e7eb;
+  margin: 0;
+}
+
+input {
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  width: 500px;
+  text-align: left;
+  font-size: larger;
+  border-radius: 0.5rem;
+  /* background-color: rgb(20, 20, 20); */
+  border: none;
+}
+
+.emoji-meaning {
+  border: 1px solid;
+  width: 300px;
+  margin: auto;
+  padding: 1.5rem 0rem;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+.div-emoji {
+  max-width: 600px;
+  margin: auto;
+  padding: 0.5rem;
+}
+
+.span-emoji {
+  display: inline-block;
+  margin: 0.5rem 0.5rem;
+  border-radius: 50%;
+  /* background-color: #374151; */
+}
+
+.span-emoji:hover {
+  /* background-color: #111827; */
+  background-color: #9ca3af;
+}
+
+/* footer {
+  background-color: black;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  padding-bottom: 3rem; 
+  margin-top: 2rem;
+} */
