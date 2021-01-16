@@ -93,7 +93,6 @@ export default function App() {
           );
         })}
       </div>
-      {/* <footer>Made with ❤️ by Diresh</footer> */}
     </div>
   );
 }
